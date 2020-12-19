@@ -1,24 +1,35 @@
 {
-  "users":[
+  "users": [
     {
       "id": 1,
       "username": "eduardoa",
       "password": "123456",
       "firstName": "Eduardo ",
       "lastName": "Oliveira ",
-      "email": "eao@gmail.com" 
+      "email": "eao@gmail.com"
+    },
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$IJPozI0kvetawYz4Q/JCq.8T2rfaknloIQ6BUp7h29ZZjEP10Xaa2",
+      "id": 2
+    },
+    {
+      "email": "oliviera@mail.com",
+      "password": "$2a$10$ChhBqSFkBG2toETEhNES9OPGEQ7fXfx6JzaJaHWXTXNIU1Qiea8Le",
+      "username": "eduardoa1",
+      "firstName": "Eduardo ",
+      "lastName": "Oliveira ",
+      "id": 3
     }
   ],
-
-  "words":[
+  "words": [
     {
       "id": 1,
       "world": "Two",
       "translation": "Dois",
-      "categories": "Numbers" 
+      "categories": "Numbers"
     }
   ],
-
   "categories": [
     {
       "id": 1,
