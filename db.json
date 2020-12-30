@@ -1,13 +1,5 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username": "eduardoa",
-      "password": "123456",
-      "firstName": "Eduardo ",
-      "lastName": "Oliveira ",
-      "email": "eao@gmail.com"
-    },
+  "users": [   
     {
       "email": "olivier@mail.com",
       "password": "$2a$10$IJPozI0kvetawYz4Q/JCq.8T2rfaknloIQ6BUp7h29ZZjEP10Xaa2",
@@ -46,5 +38,8 @@
       "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png",
       "id": 3
     }
+  ],
+  "homicidiosanocorrente": [
+    20, 30, 65, 700, 120, 125, 130, 19
   ]
 }
