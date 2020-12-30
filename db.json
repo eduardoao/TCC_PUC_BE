@@ -40,6 +40,53 @@
     }
   ],
   "homicidiosanocorrente": [
-    20, 30, 65, 700, 120, 125, 130, 19
+    {
+      "mes": 1,
+      "numeroTotal": 10
+    },
+    {
+      "mes": 2,
+      "numeroTotal": 11
+    },
+    {
+      "mes": 3,
+      "numeroTotal": 15
+    },
+    {
+      "mes": 4,
+      "numeroTotal": 10
+    },
+    {
+      "mes": 5,
+      "numeroTotal": 11
+    } ,
+    {
+      "mes": 6,
+      "numeroTotal": 10
+    },
+    {
+      "mes": 7,
+      "numeroTotal": 15
+    },
+    {
+      "mes": 8,
+      "numeroTotal": 15
+    },
+    {
+      "mes": 9,
+      "numeroTotal": 15
+    },
+    {
+      "mes": 10,
+      "numeroTotal": 15
+    },
+    {
+      "mes": 11,
+      "numeroTotal": 15
+    },
+    {
+      "mes": 12,
+      "numeroTotal": 15
+    }
   ]
 }
