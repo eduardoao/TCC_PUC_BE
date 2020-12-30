@@ -41,52 +41,52 @@
   ],
   "homicidiosanocorrente": [
     {
-      "mes": 1,
+      "mes": "Jan",
       "numeroTotal": 10
     },
     {
-      "mes": 2,
+      "mes": "Fev",
       "numeroTotal": 11
     },
     {
-      "mes": 3,
+      "mes": "Mar",
       "numeroTotal": 15
     },
     {
-      "mes": 4,
+      "mes": "Abr",
       "numeroTotal": 10
     },
     {
-      "mes": 5,
+      "mes": "Mai",
       "numeroTotal": 11
     } ,
     {
-      "mes": 6,
+      "mes": "Jun",
       "numeroTotal": 10
     },
     {
-      "mes": 7,
+      "mes": "Jul",
       "numeroTotal": 15
     },
     {
-      "mes": 8,
-      "numeroTotal": 15
+      "mes": "Ago",
+      "numeroTotal": 12
     },
     {
-      "mes": 9,
-      "numeroTotal": 15
+      "mes": "Set",
+      "numeroTotal": 11
     },
     {
-      "mes": 10,
-      "numeroTotal": 15
+      "mes": "Out",
+      "numeroTotal": 20
     },
     {
-      "mes": 11,
-      "numeroTotal": 15
+      "mes": "Nov",
+      "numeroTotal": 5
     },
     {
-      "mes": 12,
-      "numeroTotal": 15
+      "mes": "Dez",
+      "numeroTotal": 32
     }
   ]
 }
