@@ -12,16 +12,16 @@
       "firstName": "Eduardo ",
       "lastName": "Oliveira ",
       "id": 3
-    }
-  ],
-  "words": [
+    },
     {
-      "id": 1,
-      "world": "Two",
-      "translation": "Dois",
-      "categories": "Numbers"
+      "email": "regina@mail.com",
+      "password": "$2a$10$ChhBqSFkBG2toETEhNES9OPGEQ7fXfx6JzaJaHWXTXNIU1Qiea8Le",
+      "username": "regina",
+      "firstName": "Regina ",
+      "lastName": "Oliveira ",
+      "id": 4
     }
-  ],
+  ], 
   "categories": [
     {
       "id": 1,
@@ -87,6 +87,80 @@
     {
       "mes": "Dez",
       "numeroTotal": 32
+    }
+  ],
+  "taxationbycitizen":[
+    {
+      "vencimento": "2012-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 5000,
+      "valorAtualizado": 15000,
+      "parcela": 2,
+      "referencia": "04/2012",
+      "NL": "01"
+    },
+    {
+      "vencimento": "2012-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 5000,
+      "valorAtualizado": 15000,
+      "parcela": 2,
+      "referencia": "04/2012",
+      "NL": "01"
+    },
+    {
+      "vencimento": "2013-05-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 3000,
+      "valorAtualizado": 5000,
+      "parcela": 5,
+      "referencia": "05/2013",
+      "NL": "01"
+    },
+    {
+      "vencimento": "2015-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 600,
+      "valorAtualizado": 870,
+      "parcela": 4,
+      "referencia": "04/2015",
+      "NL": "01"
+    },
+    {
+      "vencimento": "2018-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 2500,
+      "valorAtualizado": 3500,
+      "parcela": 4,
+      "referencia": "04/2018",
+      "NL": "01"
+    },
+    {
+      "vencimento": "2019-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1500,
+      "valorAtualizado": 1700,
+      "parcela": 4,
+      "referencia": "04/2019",
+      "NL": "01"
+    },
+    {
+      "vencimento": "2019-09-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1300,
+      "valorAtualizado": 1500,
+      "parcela": 7,
+      "referencia": "07/2019",
+      "NL": "01"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1000,
+      "valorAtualizado": 1500,
+      "parcela": 10,
+      "referencia": "04/2020",
+      "NL": "01"
     }
   ]
 }
