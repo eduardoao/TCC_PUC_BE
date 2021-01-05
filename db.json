@@ -89,6 +89,56 @@
       "numeroTotal": 32
     }
   ],
+  "saudeanocorrente": [
+    {
+      "mes": "Jan",
+      "numeroTotal": 1000
+    },
+    {
+      "mes": "Fev",
+      "numeroTotal": 1500
+    },
+    {
+      "mes": "Mar",
+      "numeroTotal": 1600
+    },
+    {
+      "mes": "Abr",
+      "numeroTotal": 700
+    },
+    {
+      "mes": "Mai",
+      "numeroTotal": 1000
+    } ,
+    {
+      "mes": "Jun",
+      "numeroTotal": 2000
+    },
+    {
+      "mes": "Jul",
+      "numeroTotal": 3000
+    },
+    {
+      "mes": "Ago",
+      "numeroTotal": 4500
+    },
+    {
+      "mes": "Set",
+      "numeroTotal": 5000
+    },
+    {
+      "mes": "Out",
+      "numeroTotal": 1200
+    },
+    {
+      "mes": "Nov",
+      "numeroTotal": 6000
+    },
+    {
+      "mes": "Dez",
+      "numeroTotal": 3201
+    }
+  ],
   "taxationbycitizen":[
     {
       "vencimento": "2012-04-21T18:25:43-05:00",
