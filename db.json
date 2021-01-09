@@ -263,5 +263,16 @@
       "ano": "2019",
       "numeroTotal": 6.1
     }
+  ],
+  "criminalidadeanocorrente": [
+    {
+      "lat": "-23.627000",
+      "long": "-46.635000"      
+    },
+    {
+      "lat": "-23.691000",
+      "long": "-45.635000"      
+    }
+    
   ]
 }
