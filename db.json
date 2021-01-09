@@ -148,7 +148,7 @@
       "parcela": 2,
       "referencia": "04/2012",
       "NL": "01",
-      "Status": "Pago"
+      "status": "Pago"
     },
     {
       "vencimento": "2012-04-21T18:25:43-05:00",
@@ -158,7 +158,7 @@
       "parcela": 2,
       "referencia": "04/2012",
       "NL": "01",
-      "Status": "Pago"
+      "status": "Pago"
     },
     {
       "vencimento": "2013-05-21T18:25:43-05:00",
@@ -168,7 +168,7 @@
       "parcela": 5,
       "referencia": "05/2013",
       "NL": "01",
-      "Status": "Pago"
+      "status": "Pago"
 
     },
     {
@@ -179,7 +179,7 @@
       "parcela": 4,
       "referencia": "04/2015",
       "NL": "01",
-      "Status": "Pago"
+      "status": "Pago"
     },
     {
       "vencimento": "2018-04-21T18:25:43-05:00",
@@ -189,7 +189,7 @@
       "parcela": 4,
       "referencia": "04/2018",
       "NL": "01",
-      "Status": "Pago"
+      "status": "Pago"
     },
     {
       "vencimento": "2019-04-21T18:25:43-05:00",
@@ -199,7 +199,7 @@
       "parcela": 4,
       "referencia": "04/2019",
       "NL": "01",
-      "Status": "Vencido"
+      "status": "Vencido"
     },
     {
       "vencimento": "2019-09-21T18:25:43-05:00",
@@ -209,7 +209,7 @@
       "parcela": 7,
       "referencia": "07/2019",
       "NL": "01",
-      "Status": "Vencido"
+      "status": "Vencido"
     },
     {
       "vencimento": "2020-10-21T18:25:43-05:00",
@@ -219,7 +219,7 @@
       "parcela": 10,
       "referencia": "04/2020",
       "NL": "01",
-      "Status": "Pago"
+      "status": "Pago"
     }
   ],
   "educacaocorrente": [
