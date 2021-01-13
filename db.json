@@ -1,33 +1,18 @@
 {
-  "users": [   
-    {
-      "email": "olivier@mail.com",
-      "password": "$2a$10$IJPozI0kvetawYz4Q/JCq.8T2rfaknloIQ6BUp7h29ZZjEP10Xaa2",
-      "id": 2
-    },
-    {
-      "email": "oliviera@mail.com",
-      "password": "$2a$10$ChhBqSFkBG2toETEhNES9OPGEQ7fXfx6JzaJaHWXTXNIU1Qiea8Le",
-      "username": "eduardoa1",
-      "firstName": "Eduardo ",
-      "lastName": "Oliveira ",
-      "id": 3
-    },  
+  "users": [
     {
       "email": "regina@gmail.com",
-      "password": "$2a$10$ChhBqSFkBG2toETEhNES9OPGEQ7fXfx6JzaJaHWXTXNIU1Qiea8Le",
-      "username": "regina",
-      "firstName": "Regina ",
-      "lastName": "Oliveira ",
-      "id": 5
-    },
-    {
-      "email": "eduardo@gmail.com",
-      "password": "$2a$10$ChhBqSFkBG2toETEhNES9OPGEQ7fXfx6JzaJaHWXTXNIU1Qiea8Le",
-      "username": "eduardo",
-      "firstName": "Eduardo ",
-      "lastName": "Oliveira ",
+      "password": "$2a$10$sHq8j0R8CQm4kfRp1aO8HeJxb1URbnIjGYTWl3LyfHUmv0JJ9UloS",
+      "firstName": "Regina",
+      "lastName": "Oliveira",
       "id": 6
+    },    
+    {
+      "email": "teste@gmail.com",
+      "password": "$2a$10$sHq8j0R8CQm4kfRp1aO8HeJxb1URbnIjGYTWl3LyfHUmv0JJ9UloS",
+      "firstName": "Teste",
+      "lastName": "Oliveira",
+      "id": 7
     }
   ], 
   "categories": [
@@ -228,7 +213,38 @@
       "referencia": "04/2020",
       "NL": "01",
       "status": "Pago"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 1000,
+      "valorAtualizado": 1000,
+      "parcela": 10,
+      "referencia": "04/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2020-10-22T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 2000,
+      "valorAtualizado": 1000,
+      "parcela": 10,
+      "referencia": "05/2020",
+      "NL": "01",
+      "status": "Aberto"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 1200,
+      "valorAtualizado": 1500,
+      "parcela": 10,
+      "referencia": "06/2020",
+      "NL": "01",
+      "status": "Aberto"
     }
+    
   ],
   "taxationbycitizeniptr":[
     {
@@ -311,6 +327,36 @@
       "referencia": "04/2020",
       "NL": "01",
       "status": "Pago"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 1000,
+      "valorAtualizado": 1000,
+      "parcela": 10,
+      "referencia": "04/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2020-10-22T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 2000,
+      "valorAtualizado": 1000,
+      "parcela": 10,
+      "referencia": "05/2015",
+      "NL": "01",
+      "status": "Aberto"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 1200,
+      "valorAtualizado": 1500,
+      "parcela": 10,
+      "referencia": "06/20116",
+      "NL": "01",
+      "status": "Aberto"
     }
   ],
   "educacaocorrente": [
@@ -359,37 +405,37 @@
     {
       "long": -46.6333,
       "lat": -23.5405,
-      "quantidade": "20",
+      "quantidade": "2",
       "tipo": "Homicidio"      
     },
     {
       "long": -46.6333,
       "lat": -23.5503,
-      "quantidade": "10",
+      "quantidade": "3",
       "tipo": "Homicidio" 
     },
     {
       "long": -46.6333,
       "lat": -23.5500,
-      "quantidade": "50",
+      "quantidade": "4",
       "tipo": "Roubo" 
     },
     {
       "long": -46.6332,
       "lat": -23.5595,
-      "quantidade": "30",
+      "quantidade": "5",
       "tipo": "Roubo" 
     },
     {
       "long": -46.6300,
       "lat": -23.5590,
-      "quantidade": "10",
+      "quantidade": "6",
       "tipo": "Arma" 
     },
     {
       "long": -46.6132,
       "lat": -23.5495,
-      "quantidade": "15",
+      "quantidade": "7",
       "tipo": "Arma" 
     }
     
