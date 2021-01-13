@@ -357,12 +357,22 @@
   ],
   "criminalidadeanocorrente": [
     {
-      "lat": "-23.627000",
-      "long": "-46.635000"      
+      "long": -46.6333,
+      "lat": -23.5405,
+      "quantidade": 20,
+      "tipo": "Homicidio"      
     },
     {
-      "lat": "-23.691000",
-      "long": "-45.635000"      
+      "long": -46.6333,
+      "lat": -23.5503,
+      "quantidade": 10,
+      "tipo": "Homicidio" 
+    },
+    {
+      "long": -46.6333,
+      "lat": -23.5500,
+      "quantidade": 50,
+      "tipo": "Roubo" 
     }
     
   ]
