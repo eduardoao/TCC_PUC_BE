@@ -12,14 +12,22 @@
       "firstName": "Eduardo ",
       "lastName": "Oliveira ",
       "id": 3
-    },
+    },  
     {
-      "email": "regina@mail.com",
+      "email": "regina@gmail.com",
       "password": "$2a$10$ChhBqSFkBG2toETEhNES9OPGEQ7fXfx6JzaJaHWXTXNIU1Qiea8Le",
       "username": "regina",
       "firstName": "Regina ",
       "lastName": "Oliveira ",
-      "id": 4
+      "id": 5
+    },
+    {
+      "email": "eduardo@gmail.com",
+      "password": "$2a$10$ChhBqSFkBG2toETEhNES9OPGEQ7fXfx6JzaJaHWXTXNIU1Qiea8Le",
+      "username": "eduardo",
+      "firstName": "Eduardo ",
+      "lastName": "Oliveira ",
+      "id": 6
     }
   ], 
   "categories": [
@@ -158,6 +166,89 @@
       "parcela": 2,
       "referencia": "04/2012",
       "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2013-05-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 3000,
+      "valorAtualizado": 3000,
+      "parcela": 5,
+      "referencia": "05/2013",
+      "NL": "01",
+      "status": "Pago"
+
+    },
+    {
+      "vencimento": "2015-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 600,
+      "valorAtualizado": 600,
+      "parcela": 4,
+      "referencia": "04/2015",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2018-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 2500,
+      "valorAtualizado": 2500,
+      "parcela": 4,
+      "referencia": "04/2018",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2019-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1500,
+      "valorAtualizado": 2356,
+      "parcela": 4,
+      "referencia": "04/2019",
+      "NL": "01",
+      "status": "Vencido"
+    },
+    {
+      "vencimento": "2019-09-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1300,
+      "valorAtualizado": 3598,
+      "parcela": 7,
+      "referencia": "07/2019",
+      "NL": "01",
+      "status": "Vencido"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1000,
+      "valorAtualizado": 1000,
+      "parcela": 10,
+      "referencia": "04/2020",
+      "NL": "01",
+      "status": "Pago"
+    }
+  ],
+  "taxationbycitizeniptr":[
+    {
+      "vencimento": "2012-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 2000,
+      "valorAtualizado": 2000,
+      "parcela": 1,
+      "referencia": "04/2011",
+      "NL": "02",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2012-04-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 2000,
+      "valorAtualizado": 2000,
+      "parcela": 2,
+      "referencia": "05/2011",
+      "NL": "02",
       "status": "Pago"
     },
     {
