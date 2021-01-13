@@ -373,6 +373,24 @@
       "lat": -23.5500,
       "quantidade": "50",
       "tipo": "Roubo" 
+    },
+    {
+      "long": -46.6332,
+      "lat": -23.5595,
+      "quantidade": "30",
+      "tipo": "Roubo" 
+    },
+    {
+      "long": -46.6300,
+      "lat": -23.5590,
+      "quantidade": "10",
+      "tipo": "Arma" 
+    },
+    {
+      "long": -46.6132,
+      "lat": -23.5495,
+      "quantidade": "15",
+      "tipo": "Arma" 
     }
     
   ]
