@@ -13,25 +13,22 @@
       "firstName": "Teste",
       "lastName": "Oliveira",
       "id": 7
-    }
-  ], 
-  "categories": [
-    {
-      "id": 1,
-      "name": "Families",
-      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
     },
     {
-      "id": 2,
-      "name": "Numbers",
-      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+      "email": "jardel@gmail.com",
+      "password": "$2a$10$sHq8j0R8CQm4kfRp1aO8HeJxb1URbnIjGYTWl3LyfHUmv0JJ9UloS",
+      "firstName": "Jardel",
+      "lastName": "Jardel",
+      "id": 8
     },
     {
-      "name": "colors",
-      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png",
-      "id": 3
+      "email": "eduardo@gmail.com",
+      "password": "$2a$10$sHq8j0R8CQm4kfRp1aO8HeJxb1URbnIjGYTWl3LyfHUmv0JJ9UloS",
+      "firstName": "Eduardo",
+      "lastName": "Oliveira",
+      "id": 9
     }
-  ],
+  ],  
   "homicidiosanocorrente": [
     {
       "mes": "Jan",
@@ -39,65 +36,65 @@
     },
     {
       "mes": "Fev",
-      "numeroTotal": 11
+      "numeroTotal": 8
     },
     {
       "mes": "Mar",
-      "numeroTotal": 15
+      "numeroTotal": 7
     },
     {
       "mes": "Abr",
-      "numeroTotal": 10
+      "numeroTotal": 6
     },
     {
       "mes": "Mai",
-      "numeroTotal": 11
+      "numeroTotal": 5
     } ,
     {
       "mes": "Jun",
-      "numeroTotal": 10
+      "numeroTotal": 8
     },
     {
       "mes": "Jul",
-      "numeroTotal": 15
+      "numeroTotal": 9
     },
     {
       "mes": "Ago",
-      "numeroTotal": 12
+      "numeroTotal": 10
     },
     {
       "mes": "Set",
-      "numeroTotal": 11
+      "numeroTotal": 13
     },
     {
       "mes": "Out",
-      "numeroTotal": 20
+      "numeroTotal": 15
     },
     {
       "mes": "Nov",
-      "numeroTotal": 5
+      "numeroTotal": 18
     },
     {
       "mes": "Dez",
-      "numeroTotal": 32
+      "numeroTotal": 6
     }
   ],
   "saudeanocorrente": [
     {
       "mes": "Jan",
-      "numeroTotal": 1000
+      "numeroTotal": 800
     },
     {
       "mes": "Fev",
-      "numeroTotal": 1500
+      "numeroTotal": 850
     },
     {
       "mes": "Mar",
-      "numeroTotal": 1600
+      "numeroTotal": 900
     },
     {
       "mes": "Abr",
-      "numeroTotal": 700
+      "numeroTotal": 950
     },
     {
       "mes": "Mai",
@@ -105,51 +102,51 @@
     } ,
     {
       "mes": "Jun",
-      "numeroTotal": 2000
+      "numeroTotal": 1100
     },
     {
       "mes": "Jul",
-      "numeroTotal": 3000
-    },
-    {
-      "mes": "Ago",
-      "numeroTotal": 4500
-    },
-    {
-      "mes": "Set",
-      "numeroTotal": 5000
-    },
-    {
-      "mes": "Out",
       "numeroTotal": 1200
     },
     {
+      "mes": "Ago",
+      "numeroTotal": 1400
+    },
+    {
+      "mes": "Set",
+      "numeroTotal": 1600
+    },
+    {
+      "mes": "Out",
+      "numeroTotal": 1880
+    },
+    {
       "mes": "Nov",
-      "numeroTotal": 6000
+      "numeroTotal": 850
     },
     {
       "mes": "Dez",
-      "numeroTotal": 3201
+      "numeroTotal": 750
     }
   ],
   "taxationbycitizen":[
     {
-      "vencimento": "2012-04-21T18:25:43-05:00",
+      "vencimento": "2020-04-21T18:25:43-05:00",
       "contribuinte": "regina@gmail.com",
       "valor": 5000,
       "valorAtualizado": 5000,
-      "parcela": 2,
-      "referencia": "04/2012",
+      "parcela": 1,
+      "referencia": "01/2020",
       "NL": "01",
       "status": "Pago"
     },
     {
-      "vencimento": "2012-04-21T18:25:43-05:00",
+      "vencimento": "2020-04-21T18:25:43-05:00",
       "contribuinte": "regina@gmail.com",
       "valor": 5000,
       "valorAtualizado": 5000,
       "parcela": 2,
-      "referencia": "04/2012",
+      "referencia": "02/2020",
       "NL": "01",
       "status": "Pago"
     },
@@ -158,8 +155,8 @@
       "contribuinte": "regina@gmail.com",
       "valor": 3000,
       "valorAtualizado": 3000,
-      "parcela": 5,
-      "referencia": "05/2013",
+      "parcela": 3,
+      "referencia": "03/2020",
       "NL": "01",
       "status": "Pago"
 
@@ -170,7 +167,7 @@
       "valor": 600,
       "valorAtualizado": 600,
       "parcela": 4,
-      "referencia": "04/2015",
+      "referencia": "04/2020",
       "NL": "01",
       "status": "Pago"
     },
@@ -179,8 +176,8 @@
       "contribuinte": "regina@gmail.com",
       "valor": 2500,
       "valorAtualizado": 2500,
-      "parcela": 4,
-      "referencia": "04/2018",
+      "parcela": 5,
+      "referencia": "05/2020",
       "NL": "01",
       "status": "Pago"
     },
@@ -189,8 +186,8 @@
       "contribuinte": "regina@gmail.com",
       "valor": 1500,
       "valorAtualizado": 2356,
-      "parcela": 4,
-      "referencia": "04/2019",
+      "parcela": 6,
+      "referencia": "06/2020",
       "NL": "01",
       "status": "Vencido"
     },
@@ -200,7 +197,7 @@
       "valor": 1300,
       "valorAtualizado": 3598,
       "parcela": 7,
-      "referencia": "07/2019",
+      "referencia": "07/2020",
       "NL": "01",
       "status": "Vencido"
     },
@@ -209,8 +206,129 @@
       "contribuinte": "regina@gmail.com",
       "valor": 1000,
       "valorAtualizado": 1000,
+      "parcela": 8,
+      "referencia": "08/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2020-09-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1000,
+      "valorAtualizado": 1000,
+      "parcela": 9,
+      "referencia": "09/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1000,
+      "valorAtualizado": 1000,
       "parcela": 10,
+      "referencia": "10/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1000,
+      "valorAtualizado": 1000,
+      "parcela": 11,
+      "referencia": "11/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "regina@gmail.com",
+      "valor": 1000,
+      "valorAtualizado": 1500,
+      "parcela": 12,
+      "referencia": "12/2020",
+      "NL": "01",
+      "status": "Vencido"
+    },
+
+    {
+      "vencimento": "2015-04-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 600,
+      "valorAtualizado": 600,
+      "parcela": 4,
       "referencia": "04/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2018-04-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 2500,
+      "valorAtualizado": 2500,
+      "parcela": 5,
+      "referencia": "05/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2019-04-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 1500,
+      "valorAtualizado": 2356,
+      "parcela": 6,
+      "referencia": "06/2020",
+      "NL": "01",
+      "status": "Vencido"
+    },
+    {
+      "vencimento": "2019-09-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 1300,
+      "valorAtualizado": 3598,
+      "parcela": 7,
+      "referencia": "07/2020",
+      "NL": "01",
+      "status": "Vencido"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 1000,
+      "valorAtualizado": 1000,
+      "parcela": 8,
+      "referencia": "08/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2020-09-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 3000,
+      "valorAtualizado": 3000,
+      "parcela": 9,
+      "referencia": "09/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 1200,
+      "valorAtualizado": 1200,
+      "parcela": 10,
+      "referencia": "10/2020",
+      "NL": "01",
+      "status": "Pago"
+    },
+    {
+      "vencimento": "2020-10-21T18:25:43-05:00",
+      "contribuinte": "jardel@gmail.com",
+      "valor": 2000,
+      "valorAtualizado": 2000,
+      "parcela": 11,
+      "referencia": "11/2020",
       "NL": "01",
       "status": "Pago"
     },
@@ -218,32 +336,13 @@
       "vencimento": "2020-10-21T18:25:43-05:00",
       "contribuinte": "jardel@gmail.com",
       "valor": 1000,
-      "valorAtualizado": 1000,
-      "parcela": 10,
-      "referencia": "04/2020",
-      "NL": "01",
-      "status": "Pago"
-    },
-    {
-      "vencimento": "2020-10-22T18:25:43-05:00",
-      "contribuinte": "jardel@gmail.com",
-      "valor": 2000,
-      "valorAtualizado": 1000,
-      "parcela": 10,
-      "referencia": "05/2020",
-      "NL": "01",
-      "status": "Aberto"
-    },
-    {
-      "vencimento": "2020-10-21T18:25:43-05:00",
-      "contribuinte": "jardel@gmail.com",
-      "valor": 1200,
       "valorAtualizado": 1500,
-      "parcela": 10,
-      "referencia": "06/2020",
+      "parcela": 12,
+      "referencia": "12/2020",
       "NL": "01",
-      "status": "Aberto"
+      "status": "Vencido"
     }
+    
     
   ],
   "taxationbycitizeniptr":[
@@ -409,6 +508,24 @@
       "tipo": "Homicidio"      
     },
     {
+      "long": -46.1333,
+      "lat": -23.2405,
+      "quantidade": "1",
+      "tipo": "Homicidio"      
+    },
+    {
+      "long": -46.2333,
+      "lat": -23.2405,
+      "quantidade": "3",
+      "tipo": "Homicidio"      
+    },
+    {
+      "long": -46.7833,
+      "lat": -23.6405,
+      "quantidade": "5",
+      "tipo": "Homicidio"      
+    },
+    {
       "long": -46.6333,
       "lat": -23.5503,
       "quantidade": "3",
@@ -416,6 +533,18 @@
     },
     {
       "long": -46.6333,
+      "lat": -23.5500,
+      "quantidade": "4",
+      "tipo": "Roubo" 
+    },
+    {
+      "long": -46.1133,
+      "lat": -23.4400,
+      "quantidade": "5",
+      "tipo": "Roubo" 
+    },
+    {
+      "long": -46.2233,
       "lat": -23.5500,
       "quantidade": "4",
       "tipo": "Roubo" 
@@ -435,7 +564,19 @@
     {
       "long": -46.6132,
       "lat": -23.5495,
-      "quantidade": "7",
+      "quantidade": "17",
+      "tipo": "Arma" 
+    },
+    {
+      "long": -46.1132,
+      "lat": -23.1495,
+      "quantidade": "1",
+      "tipo": "Arma" 
+    },
+    {
+      "long": -46.1232,
+      "lat": -23.1295,
+      "quantidade": "2",
       "tipo": "Arma" 
     }
     
