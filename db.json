@@ -1,12 +1,6 @@
 {
   "users": [
-    {
-      "email": "regina@gmail.com",
-      "password": "$2a$10$67QmA6J7xpGnY3vCsKvCw.t7CZtusnLyRZlyMEg7DyzLZZ6ocOH2q",
-      "firstName": "Regina",
-      "lastName": "Oliveira",
-      "id": 6
-    },    
+    
     {
       "email": "teste@gmail.com",
       "password": "$2a$10$sHq8j0R8CQm4kfRp1aO8HeJxb1URbnIjGYTWl3LyfHUmv0JJ9UloS",
