@@ -509,74 +509,74 @@
       "tipo": "Homicidio"      
     },
     {
-      "long": -46.1333,
-      "lat": -23.2405,
+      "long": -46.6331,
+      "lat": -23.5404,
       "quantidade": "1",
       "tipo": "Homicidio"      
     },
     {
-      "long": -46.2333,
-      "lat": -23.2405,
+      "long": -46.6336,
+      "lat": -23.5408,
       "quantidade": "3",
       "tipo": "Homicidio"      
     },
     {
-      "long": -46.7833,
-      "lat": -23.6405,
+      "long": -46.6339,
+      "lat": -23.5406,
       "quantidade": "5",
       "tipo": "Homicidio"      
     },
     {
-      "long": -46.6333,
-      "lat": -23.5503,
+      "long": -46.6332,
+      "lat": -23.5401,
       "quantidade": "3",
       "tipo": "Homicidio" 
     },
     {
-      "long": -46.6333,
-      "lat": -23.5500,
+      "long": -46.6337,
+      "lat": -23.5408,
       "quantidade": "4",
       "tipo": "Roubo" 
     },
     {
-      "long": -46.1133,
-      "lat": -23.4400,
+      "long": -46.6334,
+      "lat": -23.5408,
       "quantidade": "5",
       "tipo": "Roubo" 
     },
     {
-      "long": -46.2233,
-      "lat": -23.5500,
+      "long": -46.6335,
+      "lat": -23.5407,
       "quantidade": "4",
       "tipo": "Roubo" 
     },
     {
-      "long": -46.6332,
-      "lat": -23.5595,
+      "long": -46.6336,
+      "lat": -23.5406,
       "quantidade": "5",
       "tipo": "Roubo" 
     },
     {
-      "long": -46.6300,
-      "lat": -23.5590,
+      "long": -46.6331,
+      "lat": -23.5401,
       "quantidade": "6",
       "tipo": "Arma" 
     },
     {
-      "long": -46.6132,
-      "lat": -23.5495,
+      "long": -46.6334,
+      "lat": -23.5404,
       "quantidade": "17",
       "tipo": "Arma" 
     },
     {
-      "long": -46.1132,
-      "lat": -23.1495,
+      "long": -46.6339,
+      "lat": -23.5409,
       "quantidade": "1",
       "tipo": "Arma" 
     },
     {
-      "long": -46.1232,
-      "lat": -23.1295,
+      "long": -46.6329,
+      "lat": -23.5410,
       "quantidade": "2",
       "tipo": "Arma" 
     }
